@@ -1,0 +1,1 @@
+db.pizzaOrders.deleteMany({ credit_card_type:"Jack"})
